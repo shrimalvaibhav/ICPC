@@ -5,6 +5,7 @@
 #define MAX 1000
 using namespace std;
 
+/*
 void print(int** arr){
 	for(int i=0;i<5;i++){
 		for(int j=0;j<5;j++){
@@ -75,15 +76,15 @@ int func(int** arr,  int city){
 		}
 
 		return mc;
-		/*
-		if(nocwm==1){
-			found=true;
-			return mc;
-		}
-		*/
+		
+		//if(nocwm==1){
+			//found=true;
+			//return mc;
+		//}
+		
 }
-
-
+*/
+/*
 int main(){
 	int** arr=new int*[5];
 	for(int i=0;i<5;i++){
@@ -163,3 +164,4 @@ int main(){
 	getchar();
 	return 0;
 }
+*/
